@@ -1,5 +1,5 @@
 /*
-Problem: Greatest Common Divisor of Strings
+Problem: Increasing Triplet Subsequence
 Link: https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan-v2&envId=leetcode-75
 */
 class IncreasingTripletSubsequence {

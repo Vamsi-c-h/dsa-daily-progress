@@ -1,5 +1,5 @@
 /*
-Problem: Greatest Common Divisor of Strings
+Problem: Product of Array Except Self
 Link: https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75
 */
 class ProductofArrayExceptSelf {

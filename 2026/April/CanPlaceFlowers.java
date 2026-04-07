@@ -1,5 +1,5 @@
 /*
-Problem: Greatest Common Divisor of Strings
+Problem: Can Place Flowers
 Link: https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75
 */
 class CanPlaceFlowers {

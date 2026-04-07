@@ -1,3 +1,7 @@
+/*
+Problem: Is Subsequence
+Link: https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75
+*/
 class IsSubsequence {
     public boolean isSubsequence(String s, String t) {
         int i = 0, j = 0;

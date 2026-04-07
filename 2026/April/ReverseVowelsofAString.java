@@ -1,5 +1,5 @@
 /*
-Problem: Greatest Common Divisor of Strings
+Problem: Reverse Vowels of A String
 Link: https://leetcode.com/problems/reverse-vowels-of-a-string/?envType=study-plan-v2&envId=leetcode-75
 */
 import java.util.ArrayList;
